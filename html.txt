@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Internet Communication</title>
+
+<style>
+.ex {
+width: 220px;  
+padding: 2px 10px 5px;
+border: 5px solid gray;  
+margin: 0px;
+}
+</style>
+</head>
+<body>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrt8bcF8C6pzy7Ewy96Mm897krO3lE76Gdk2okO84U&s" width="750" height="300" />
+<br>
+<div class="ex">
+The image above is 750px wide.<br>
+The total width of this element is also 750px.
+</div>
+</body>
+</html>
+</head>
+<body>
+<h1>What is Internet-based Communication?</h1>
+<p>We know that the internet is a collection of connected networks that transfers data via packet switching with the help of Internet Protocol Suite (TCP/IP). Unlike before, people can now connect to their friends, family, or relatives in any part of the globe while staying at home. Thanks to internet communication.
+
+    Internet-based communication refers to sharing information over the internet. From instant messaging to placing calls, the internet offers multiple ways to communicate. These tools help you save a considerable amount. Some of them like email, social networking, and instant messaging are available free of cost, whereas some like internet telephony provide you with numerous advantages at cost-effective prices.</p>
+    <p>Click <a 
+        href=https://www.linkedin.com/pulse/internet-communications-what-ways-communicate-over-diwakar-chaturvedi>
+        Here </a> to go to homepage of 
+        linkedin</p>
+</body>
+<h2>VoIP and Internet Phone System</h2>
+<p>Internet telephony uses the internet as a transmission medium for telephone calls. For users and businesses that need to make calls anywhere in the world can benefit immensely from an internet phone system. 
+
+    An array of internet telephony applications come bundled with Web browsers, whereas the others are standalone products. Another internet-based communication tool is Voice over Internet Protocol (VoIP). It is growing in popularity among businesses expanding globally. It sends voice packets using IP as opposed to PSTN (Public Switched Telephone Network). As soon as the voice packets reach its destination, it again gets converted into voice data for the receiver.</p>
+</html>
